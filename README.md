@@ -103,8 +103,3 @@ CI/CD (Continuous Integration and Continuous Deployment) automates the build, te
 - **Linting/Testing Tools**: Used to automatically check code style and logic integrity.
 
 ---
-## Getting Started
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/YOUR-USERNAME/airbnb-clone-project.git
-   cd airbnb-clone-project
