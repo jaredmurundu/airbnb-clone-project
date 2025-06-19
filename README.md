@@ -3,9 +3,9 @@
 ## Project Overview
 StayBackend is a backend simulation of a real-world booking platform like Airbnb. This project challenges learners to explore core backend development principles through a comprehensive full-stack application build. It emphasizes backend architecture, database design, API development, application security, and CI/CD practices to simulate professional software development workflows.
 
-**Project Duration**: June 16 – June 23, 2025  
-**Level**: Novice  
-**Weight**: 1  
+**Project Duration** June 16 – June 23, 2025  
+**Level** Novice  
+**Weight** 1  
 **Manual QA Review Required**
 ---
 ## Team Roles
@@ -36,7 +36,7 @@ StayBackend is a backend simulation of a real-world booking platform like Airbnb
 
 The database is structured around core entities needed to replicate Airbnb's backend logic:
 
-### Key Entities:
+### Key Entities
 
 1. **Users**
    - Fields: `id`, `username`, `email`, `password`, `role`
@@ -97,7 +97,7 @@ Security is a critical component of backend development, particularly in a platf
 ### What is CI/CD?
 CI/CD (Continuous Integration and Continuous Deployment) automates the build, test, and deployment phases of development. This ensures faster iterations and early bug detection.
 
-### Tools Used:
+### Tools Used
 - **GitHub Actions**: Automates workflows for testing and deploying code upon pushing changes.
 - **Docker**: Ensures code runs reliably in any environment by using containers.
 - **Linting/Testing Tools**: Used to automatically check code style and logic integrity.
